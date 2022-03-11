@@ -4,6 +4,5 @@
 ! Homepage: https://github.com/wefalltomorrow/GoogleURLStripper
 ||google.$removeparam=sxsrf
 ||google.$removeparam=ved
-||google.$removeparam=spell
 ||google.$removeparam=oq
-
+||google.$removeparam=spell
