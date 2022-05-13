@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: GoogleURLStripper
-! Expires: 60 days (update frequency)
+! Expires: 30 days (update frequency)
 ! Homepage: https://github.com/wefalltomorrow/GoogleURLStripper
 ||google.$removeparam=sxsrf
 ||google.$removeparam=ved
@@ -8,3 +8,4 @@
 ||google.$removeparam=spell
 ||google.$removeparam=sclient
 ||google.$removeparam=stick
+||google.$removeparam=dpr
