@@ -7,3 +7,4 @@
 ||google.$removeparam=oq
 ||google.$removeparam=spell
 ||google.$removeparam=sclient
+||google.$removeparam=stick
